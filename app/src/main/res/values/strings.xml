@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Dicee</string>+--
     <string name="button_text">Roll</string>
+    <string name="roll_the_dice">Roll the dice!</string>
+    <string name="right_dice">Right dice!</string>
+    <string name="left_dice">Left Dice!</string>
+    <string name="title">Title</string>
 </resources>
